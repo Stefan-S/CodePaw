@@ -1,0 +1,11 @@
+# Application global resources
+
+Application.name = CodePaw
+Application.title = CodePaw
+Application.version = 1.5
+Application.vendor = Stefan Spasovski
+Application.homepage=http://kenai.com/projects/codepaw
+Application.description = Simple program that generates main function for problems defined like on the CodeFu competition.\ni.e. your best codeFu friend.
+Application.vendorId = Sun
+Application.id = CodePaw
+Application.lookAndFeel = system

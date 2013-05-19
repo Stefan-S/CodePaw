@@ -1,0 +1,10 @@
+text=jLabel1
+SplashLabel.text=
+#NOI18N
+SplashLabel.icon=splash.png
+#NOI18N
+SplashScreenForm.background=222, 222, 222
+SplashImage.text=
+#NOI18N
+SplashImage.icon=splash.png
+Starting\ CodePaw.title=Starting CodePaw
