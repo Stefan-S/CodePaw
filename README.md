@@ -19,3 +19,5 @@ I am Stefan Spasovski, and if you have any suggestions bug reports or you're in 
 ##Links
 The old project (Prevoius versions)
 * [on project Kenai](http://kenai.com/projects/codepaw)
+My personal page
+* [stefs.me](http://stefs.me)
